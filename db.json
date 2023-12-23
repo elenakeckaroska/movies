@@ -1,39 +1,49 @@
 {
-  "movies": [
-    {
-      "id": 0,
-      "title": "Titanic",
-      "description": "Description",
-      "director": "Cameroon",
-      "actors": []
-    },
-    {
-      "id": 1,
-      "title": "Shrek 2",
-      "description": "Description shrek",
-      "director": "Director",
-      "actors": []
-    },
-    {
-      "id": 2,
-      "title": "Shrek",
-      "description": "Description",
-      "director": "Director",
-      "actors": []
-    },
-    {
-    "id": 3,
-    "title": "Shrekkkkkkkkkk",
-    "description": "Description",
-    "director": "Director",
-    "actors": []
-  },
-     {
-    "id": 4,
-    "title": "Shrekkkkkkkkkk",
-    "description": "Description",
-    "director": "Director",
-    "actors": []
-  }
-  ]
+   "movies":[
+      {
+         "id":0,
+         "title":"Titanic",
+         "description":"Description",
+         "director":"Cameroon",
+         "actors":[
+            
+         ]
+      },
+      {
+         "id":1,
+         "title":"Shrek 2",
+         "description":"Description shrek",
+         "director":"Director",
+         "actors":[
+            
+         ]
+      },
+      {
+         "id":2,
+         "title":"Shrek",
+         "description":"Description",
+         "director":"Director",
+         "actors":[
+            
+         ]
+      },
+      {
+         "id":3,
+         "title":"Shrekkkkkkkkkk",
+         "description":"Description",
+         "director":"Director",
+         "actors":[
+            
+         ]
+      },
+      {
+         "id":4,
+         "title":"Shrekkkkkkkkkk",
+         "description":"Description",
+         "director":"Director",
+         "actors":[
+            
+         ]
+      }
+   ]
 }
