@@ -28,20 +28,6 @@
     "actresses": ["Christian Bale", "Heath Ledger"]
   },
   {
-    "id": 5,
-    "title": "Schindler's List",
-    "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
-    "director": "Steven Spielberg",
-    "actresses": ["Liam Neeson", "Ben Kingsley"]
-  },
-  {
-    "id": 6,
-    "title": "Forrest Gump",
-    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
-    "director": "Robert Zemeckis",
-    "actresses": ["Tom Hanks", "Robin Wright"]
-  },
-  {
     "id": 7,
     "title": "Shrek",
     "description": "An ogre, in order to regain his swamp, travels along with an annoying donkey in order to bring a princess to a scheming lord, wishing himself King.",
