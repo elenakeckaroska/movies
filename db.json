@@ -21,13 +21,6 @@
     "actresses": ["John Travolta", "Uma Thurman"]
   },
   {
-    "id": 4,
-    "title": "The Dark Knight",
-    "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
-    "director": "Christopher Nolan",
-    "actresses": ["Christian Bale", "Heath Ledger"]
-  },
-  {
     "id": 7,
     "title": "Shrek",
     "description": "An ogre, in order to regain his swamp, travels along with an annoying donkey in order to bring a princess to a scheming lord, wishing himself King.",
