@@ -1,5 +1,6 @@
-[
-  "movies":
+{
+    "movies":
+  [
   {
     "id": 1,
     "title": "The Shawshank Redemption",
@@ -29,3 +30,4 @@
     "actresses": ["Mike Myers", "Eddie Murphy"]
   }
 ]
+}
